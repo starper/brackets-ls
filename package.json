@@ -1,6 +1,6 @@
 {
     "name": "brackets-ls",
-    "title": "LiveScript Syntax for Brackets",
+    "title": "LiveScript Syntax Highlighting for Brackets",
     "homepage": "https://github.com/starper/brackets-ls",
     "description": "Provides LiveScript syntax highlighting.",
     "version": "0.0.1",
