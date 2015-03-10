@@ -3,7 +3,7 @@
     "title": "LiveScript Syntax Highlighting for Brackets",
     "homepage": "https://github.com/starper/brackets-ls",
     "description": "Provides LiveScript syntax highlighting.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "Starper",
     "license": "MIT",
     "engines": {
